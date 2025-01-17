@@ -44,8 +44,9 @@ This project showcases a comprehensive **data engineering pipeline** designed to
    - Integrated Azure DevOps pipelines for seamless deployment and versioning of the project.  
 
 ## Key Deliverables  
-- **Dashboard 1: Testing Trends**  
-  ![Testing Trends](path/to/Testing.png)  
+- **Testing Trends**
+- 
+  ![Testing Trends](https://github.com/DarshanNarola/Covid19/blob/2cb16c332bb392010d254201fa088830c33362dc/Testing.png)  
   - Testing data visualized across countries in the EU/EEA & UK.  
   - Comparison of tests done vs confirmed cases over time.  
 
