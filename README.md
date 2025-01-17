@@ -50,8 +50,9 @@ This project showcases a comprehensive **data engineering pipeline** designed to
   - Testing data visualized across countries in the EU/EEA & UK.  
   - Comparison of tests done vs confirmed cases over time.  
 
-- **Dashboard 2: Cases and Death Trends**  
-  ![Cases and Death Trends](path/to/Trends-Country.png)  
+- **Cases and Death Trends**
+- 
+  ![Cases and Death Trends](https://github.com/DarshanNarola/Covid19/blob/3f1b73be1fe8ae92cf4838b2856c802d3d9189d4/Trends-Country.png)  
   - Trends for total cases and deaths visualized for the UK, France, and Germany.  
 
 ## Dataset  
@@ -60,4 +61,4 @@ The project uses publicly available COVID-19 datasets, which include information
 ## Installation and Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/covid19-data-engineering.git
+   git clone https://github.com/your-username/covid19.git
