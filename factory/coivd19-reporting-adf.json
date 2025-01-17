@@ -1,0 +1,9 @@
+{
+	"name": "coivd19-reporting-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7bc8dd6-09fb-4e1f-aa8f-aa9500854a13",
+		"tenantId": "f651bb08-d47e-4082-9eac-58ea3ae7ad1f"
+	}
+}
